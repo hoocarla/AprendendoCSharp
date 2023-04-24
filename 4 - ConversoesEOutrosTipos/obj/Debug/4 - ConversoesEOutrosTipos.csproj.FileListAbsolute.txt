@@ -1,0 +1,8 @@
+C:\Users\125259\source\repos\AprendendoCSharp\4 - ConversoesEOutrosTipos\bin\Debug\4 - ConversoesEOutrosTipos.exe.config
+C:\Users\125259\source\repos\AprendendoCSharp\4 - ConversoesEOutrosTipos\bin\Debug\4 - ConversoesEOutrosTipos.exe
+C:\Users\125259\source\repos\AprendendoCSharp\4 - ConversoesEOutrosTipos\bin\Debug\4 - ConversoesEOutrosTipos.pdb
+C:\Users\125259\source\repos\AprendendoCSharp\4 - ConversoesEOutrosTipos\obj\Debug\4 - ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\125259\source\repos\AprendendoCSharp\4 - ConversoesEOutrosTipos\obj\Debug\4 - ConversoesEOutrosTipos.csproj.SuggestedBindingRedirects.cache
+C:\Users\125259\source\repos\AprendendoCSharp\4 - ConversoesEOutrosTipos\obj\Debug\4 - ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\125259\source\repos\AprendendoCSharp\4 - ConversoesEOutrosTipos\obj\Debug\4 - ConversoesEOutrosTipos.exe
+C:\Users\125259\source\repos\AprendendoCSharp\4 - ConversoesEOutrosTipos\obj\Debug\4 - ConversoesEOutrosTipos.pdb
