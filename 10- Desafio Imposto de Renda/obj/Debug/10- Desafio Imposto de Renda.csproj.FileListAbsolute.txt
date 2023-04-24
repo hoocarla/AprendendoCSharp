@@ -1,0 +1,8 @@
+C:\Users\125259\source\repos\AprendendoCSharp\10- Desafio Imposto de Renda\bin\Debug\10- Desafio Imposto de Renda.exe.config
+C:\Users\125259\source\repos\AprendendoCSharp\10- Desafio Imposto de Renda\bin\Debug\10- Desafio Imposto de Renda.exe
+C:\Users\125259\source\repos\AprendendoCSharp\10- Desafio Imposto de Renda\bin\Debug\10- Desafio Imposto de Renda.pdb
+C:\Users\125259\source\repos\AprendendoCSharp\10- Desafio Imposto de Renda\obj\Debug\10- Desafio Imposto de Renda.csproj.AssemblyReference.cache
+C:\Users\125259\source\repos\AprendendoCSharp\10- Desafio Imposto de Renda\obj\Debug\10- Desafio Imposto de Renda.csproj.SuggestedBindingRedirects.cache
+C:\Users\125259\source\repos\AprendendoCSharp\10- Desafio Imposto de Renda\obj\Debug\10- Desafio Imposto de Renda.csproj.CoreCompileInputs.cache
+C:\Users\125259\source\repos\AprendendoCSharp\10- Desafio Imposto de Renda\obj\Debug\10- Desafio Imposto de Renda.exe
+C:\Users\125259\source\repos\AprendendoCSharp\10- Desafio Imposto de Renda\obj\Debug\10- Desafio Imposto de Renda.pdb

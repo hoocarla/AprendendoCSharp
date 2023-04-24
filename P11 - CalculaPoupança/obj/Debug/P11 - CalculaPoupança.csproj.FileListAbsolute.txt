@@ -1,0 +1,8 @@
+C:\Users\125259\source\repos\AprendendoCSharp\P11 - CalculaPoupança\bin\Debug\P11 - CalculaPoupança.exe.config
+C:\Users\125259\source\repos\AprendendoCSharp\P11 - CalculaPoupança\bin\Debug\P11 - CalculaPoupança.exe
+C:\Users\125259\source\repos\AprendendoCSharp\P11 - CalculaPoupança\bin\Debug\P11 - CalculaPoupança.pdb
+C:\Users\125259\source\repos\AprendendoCSharp\P11 - CalculaPoupança\obj\Debug\P11 - CalculaPoupança.csproj.AssemblyReference.cache
+C:\Users\125259\source\repos\AprendendoCSharp\P11 - CalculaPoupança\obj\Debug\P11 - CalculaPoupança.csproj.SuggestedBindingRedirects.cache
+C:\Users\125259\source\repos\AprendendoCSharp\P11 - CalculaPoupança\obj\Debug\P11 - CalculaPoupança.csproj.CoreCompileInputs.cache
+C:\Users\125259\source\repos\AprendendoCSharp\P11 - CalculaPoupança\obj\Debug\P11 - CalculaPoupança.exe
+C:\Users\125259\source\repos\AprendendoCSharp\P11 - CalculaPoupança\obj\Debug\P11 - CalculaPoupança.pdb

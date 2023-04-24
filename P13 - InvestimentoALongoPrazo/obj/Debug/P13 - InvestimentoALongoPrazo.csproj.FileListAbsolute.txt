@@ -1,0 +1,8 @@
+C:\Users\125259\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\bin\Debug\P13 - InvestimentoALongoPrazo.exe.config
+C:\Users\125259\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\bin\Debug\P13 - InvestimentoALongoPrazo.exe
+C:\Users\125259\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\bin\Debug\P13 - InvestimentoALongoPrazo.pdb
+C:\Users\125259\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\P13 - InvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Users\125259\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\P13 - InvestimentoALongoPrazo.csproj.SuggestedBindingRedirects.cache
+C:\Users\125259\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\P13 - InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\125259\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\P13 - InvestimentoALongoPrazo.exe
+C:\Users\125259\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\P13 - InvestimentoALongoPrazo.pdb

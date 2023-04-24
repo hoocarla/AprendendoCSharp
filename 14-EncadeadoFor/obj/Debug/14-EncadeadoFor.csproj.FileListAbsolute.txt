@@ -1,0 +1,8 @@
+C:\Users\125259\source\repos\AprendendoCSharp\14-EncadeadoFor\bin\Debug\14-EncadeadoFor.exe.config
+C:\Users\125259\source\repos\AprendendoCSharp\14-EncadeadoFor\bin\Debug\14-EncadeadoFor.exe
+C:\Users\125259\source\repos\AprendendoCSharp\14-EncadeadoFor\bin\Debug\14-EncadeadoFor.pdb
+C:\Users\125259\source\repos\AprendendoCSharp\14-EncadeadoFor\obj\Debug\14-EncadeadoFor.csproj.AssemblyReference.cache
+C:\Users\125259\source\repos\AprendendoCSharp\14-EncadeadoFor\obj\Debug\14-EncadeadoFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\125259\source\repos\AprendendoCSharp\14-EncadeadoFor\obj\Debug\14-EncadeadoFor.csproj.CoreCompileInputs.cache
+C:\Users\125259\source\repos\AprendendoCSharp\14-EncadeadoFor\obj\Debug\14-EncadeadoFor.exe
+C:\Users\125259\source\repos\AprendendoCSharp\14-EncadeadoFor\obj\Debug\14-EncadeadoFor.pdb
